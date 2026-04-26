@@ -1,0 +1,9 @@
+yfinance
+newsapi-python
+google-generativeai
+pandas
+plotly
+streamlit
+scikit-learn
+xgboost
+python-dotenv
